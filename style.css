@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-image: url('./space.png');
+}
+
+#game {
+    background-image: url('/graveyard2.jpg');
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Creepster', cursive;
+    font-size: 50px;
+    color: yellow
+}
